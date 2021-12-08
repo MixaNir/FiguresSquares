@@ -1,0 +1,11 @@
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\bin\Debug\net5.0\SquareLibrary.deps.json
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\bin\Debug\net5.0\SquareLibrary.dll
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\bin\Debug\net5.0\ref\SquareLibrary.dll
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\bin\Debug\net5.0\SquareLibrary.pdb
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\obj\Debug\net5.0\SquareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\obj\Debug\net5.0\SquareLibrary.AssemblyInfoInputs.cache
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\obj\Debug\net5.0\SquareLibrary.AssemblyInfo.cs
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\obj\Debug\net5.0\SquareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\obj\Debug\net5.0\SquareLibrary.dll
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\obj\Debug\net5.0\ref\SquareLibrary.dll
+C:\Users\MProkopenko\source\repos\TestApp\SquareLibrary\obj\Debug\net5.0\SquareLibrary.pdb
